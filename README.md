@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hola, soy Roberto Castillo</h1>
-<h3 align="center">Estudiante de Ingeniería de Software | Miembro de Data Byte Fortress 🚀</h3>
+<h3 align="center">Miembro de Data Byte Fortress 🚀</h3>
 
 ---
 <div align="center">
 🎓 Actualmente estudiando y desarrollando proyectos.
 </div>
----
 
 🛠️ Tecnologías con las que estoy trabajando:
 
@@ -15,10 +14,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-📊 Mis estadísticas en GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoideabcd24&layout=compact&theme=radical" alt="Top Langs" />
