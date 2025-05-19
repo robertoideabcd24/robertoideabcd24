@@ -2,9 +2,6 @@
 <h3 align="center">Miembro de Data Byte Fortress 🚀</h3>
 
 ---
-<div align="center">
-🎓 Actualmente estudiando y desarrollando proyectos.
-</div>
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
