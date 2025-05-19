@@ -3,7 +3,7 @@
 
 ---
 
-🎓 Actualmente estudiando y desarrollando proyectos con pasión por la tecnología y el aprendizaje constante.
+🎓 Actualmente estudiando y desarrollando proyectos.
 
 ---
 
