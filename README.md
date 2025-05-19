@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hola, soy Roberto Castillo</h1>
-<h3 align="center">Miembro de Data Byte Fortress 🚀</h3>
-
 ---
-
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
